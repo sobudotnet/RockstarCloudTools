@@ -1,10 +1,3 @@
-# RockstarCloudTools
-Simple fixes for common Rockstar syncing and cloud issues.
-
-## R* Cloud Tools
-
-`RCloudTools.bat` is a lightweight Windows batch launcher for finding and safely moving local Rockstar data when sync issues occur.
-
 ### Use
 
 1. Close GTA V and Rockstar Games Launcher.
